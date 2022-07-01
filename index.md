@@ -10,4 +10,5 @@ TODO
 ## Project Info
 
 [FAQs](/faq)
+
 [Credits](/credits)
