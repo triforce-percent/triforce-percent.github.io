@@ -11,4 +11,4 @@ TODO
 
 [FAQs](https://gettriforce.link/faq)
 
-[Credits](https:/gettriforce.link/credits)
+[Credits](https://gettriforce.link/credits)
