@@ -9,6 +9,6 @@ TODO
 
 ## Project Info
 
-[FAQs](/faq)
+[FAQs](https://gettriforce.link/faq)
 
-[Credits](/credits)
+[Credits](https:/gettriforce.link/credits)
