@@ -25,7 +25,7 @@ OoT Beta Showcase is the name we were using for Triforce% in order to avoid spoi
 The short answer is, to finally get the Triforce in OoT and make the dreams of millions of players come true. Other answers include:
 - to raise hundreds of thousands of dollars for MSF (Doctors Without Borders)
 - to explore the relationship between beta content and urban legends in OoT
-- to create a new type of video game related creative work, which has almost never been seen before (prior example was MrCheeze putting Mew under the truck with ACE)
+- to create a new type of video game related creative work, which has almost never been seen before (prior example was [MrCheeze putting Mew under the truck with ACE](https://www.youtube.com/watch?v=i2x3pIvVnP4&t=2s))
 - to show off what can be technically achieved on a real N64 console
 
 ## Lore
@@ -46,7 +46,7 @@ The primary reason is that the Japanese version of BotW gets closer to having Li
 
 **What was the significance of X element (e.g. Unicorn Fountain, Overture of Sages, etc.) shown in the run?**
 
-See SwankyBox’s video [link] and Hard4Games’ videos [link] for more information on the lore.
+See [SwankyBox’s video](https://www.youtube.com/watch?v=1_RighmL04g) and [Hard4Games’ video](https://www.youtube.com/watch?v=f9cCtRYMKm4) for more information on the lore.
 
 ## Data
 
@@ -111,11 +111,11 @@ A TAS replay device is basically a controller adapter but better. It takes the T
 
 **Where could I learn to make something like this?**
 
-TAS: Tasvideos.org
+TAS: https://tasvideos.org
 
 N64 homebrew: N64brew discord
 
-OoT romhacking: The decomp, Hylian modding discord
+OoT romhacking: [The decomp](https://github.com/zeldaret/oot), [Hylian Modding discord](https://discord.gg/nGFZ394)
 
 
 **Can I still contribute to N64 / OoT / TAS development if this all seems over my head right now?**
