@@ -35,6 +35,8 @@ TetraBitGaming TODO
 
 [SoundCloud](https://soundcloud.com/sauraen/sets/triforce-percent)
 
+[SiIvaGunner wiki](https://siivagunner.fandom.com/wiki/Triforce%25_SGDQ_Run)
+
 ## For content creators making videos etc. on Triforce%:
 
 [Clean run video (for taking footage from)](https://www.youtube.com/watch?v=PZNywtNOe9U)
