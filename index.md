@@ -17,7 +17,7 @@
 
 ## Partner Creators' videos
 
-SwankyBox TODO
+[SwankyBox](https://www.youtube.com/watch?v=1_RighmL04g)
 
 [Retro Game Mechanics Explained](https://www.youtube.com/watch?v=qBK1sq1BQ2Q)
 
