@@ -150,3 +150,7 @@ There are three overall techniques which were used for patching the game.
 - We can replace a whole file which is normally on the cartridge with a copy we uploaded into RAM. That is, we change the file list (which is stored in RAM) and overwrite the entry for that file from the ROM with a special entry telling it to load from our injected RAM data instead. This is used for things like fully custom scenes, or actors which needed larger changes like the Gerudo guards and Zora’s Domain ice/waterfall.
 - We can patch the code (stored in RAM) which asks to load the data from ROM, so that it doesn’t try to load from a ROM file at all in cases we want. This is used for types of data which are normally streamed in uncompressed format from the ROM, including music sequences, sound effects, and Link animations, and types of data which have tables separate from the file list, like completely custom actors and objects.
 
+
+---
+
+Triforce Percent
