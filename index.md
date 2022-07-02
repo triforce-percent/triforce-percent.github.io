@@ -2,7 +2,7 @@
 
 ## Main Links
 
-[Live run main video](https://twitch.tv/gamesdonequick/videos)
+[Live run main video](https://www.twitch.tv/videos/1519377241)
 
 [Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8)
 
