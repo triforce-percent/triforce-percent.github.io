@@ -27,7 +27,7 @@ unmodified game!
 Music: Trailer (Beta Mix) \
 Composer: Koji Kondo \
 Playlist: https://www.youtube.com/playlist?list=PLL0CQjrcN8D3qRiR5WUL5l_bPo2sIzdfr \
-Platform: Nintendo 64 \
+Platform: Nintendo 64
 
 Please read the channel description.
 
@@ -39,7 +39,7 @@ This is “beta mix” to refer to Triforce% being called “OoT Beta Showcase�
 Music: Overture of Sages \
 Composer: Ariana Almandoz \
 Playlist: https://www.youtube.com/playlist?list=PLL0CQjrcN8D3qRiR5WUL5l_bPo2sIzdfr \
-Platform: Nintendo 64 \
+Platform: Nintendo 64
 
 Please read the channel description.
 
