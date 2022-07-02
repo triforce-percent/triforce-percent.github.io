@@ -31,7 +31,7 @@ TetraBitGaming TODO
 
 ## OST Published By SiIvaGunner
 
-[YouTube](https://www.youtube.com/watch?v=E1OYYi2Vzro)
+[YouTube](https://www.youtube.com/watch?v=E1OYYi2Vzro&list=PLL0CQjrcN8D3qRiR5WUL5l_bPo2sIzdfr&index=155)
 
 [SoundCloud](https://soundcloud.com/sauraen/sets/triforce-percent)
 
