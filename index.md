@@ -6,7 +6,7 @@
 
 [Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8)
 
-[Source release](https://github.com/triforce-percent/triforce-percent)
+[Source code release](https://github.com/triforce-percent/triforce-percent)
 
 
 ## Project Info
