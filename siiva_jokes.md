@@ -112,7 +112,8 @@ Please read the channel description.
 Joke: Arrangement by Sauraen of Zelda’s theme (Zelda’s Lullaby) and Link’s theme
 (the Zelda series main theme), plus snippets of themes from several other Zelda
 games. Plays during the finale cutscene of Triforce%. The song is called “Here
-Together” for reasons which will become clear during the live performance.
+Together” because this is the message the Twitch chat was asked to type and which
+showed up in game.
 
 **Staff Roll (Triforce Ending) - The Legend of Zelda: Ocarina of Time**
 
