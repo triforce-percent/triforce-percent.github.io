@@ -1,5 +1,5 @@
 layout: page
-title: "TODO: FAQ"
+title: "Triforce% OoT ACE Showcase: FAQ"
 permalink: /faq/
 
 # Frequently Asked Questions
