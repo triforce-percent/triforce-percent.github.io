@@ -45,7 +45,7 @@ Please read the channel description.
 
 Joke: See https://zelda.fandom.com/wiki/Community:Overture_of_Sages for context
 and http://platypuscomix.com/websurfin/ariana.html for the original. This is the
-\actual song used in this hoax in 1999, presumably composed by the hoaxer, who
+actual song used in this hoax in 1999, presumably composed by the hoaxer, who
 used the name Ariana Almandoz. Everything besides the original 6-note Ocarina
 song was arranged by Sauraen.
 
