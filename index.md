@@ -69,3 +69,5 @@ The Triforce% Team
 The Legend of ZELDA: Ocarina of Time \
 Copyright © 1998 \
 Nintendo
+
+Triforce Percent
