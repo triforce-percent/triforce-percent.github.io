@@ -43,6 +43,10 @@ TetraBitGaming TODO
 
 [HD screenshots folder](https://drive.google.com/drive/folders/1uA5L-3pM1gBm_FDIDFX9zB5qrqo1Q1Cv?usp=sharing)
 
+## Articles posted about Triforce%
+
+[Forever Classic Games](https://foreverclassicgames.com/news/2022/7/tasbot-summer-games-done-quick-sgdq2022-zelda-link-triforce)
+
 ## Contact
 
 Media inquiries or TASBot related: dwangoAC ac@acbit.net
