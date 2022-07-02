@@ -62,7 +62,7 @@ Romhack: The Triforce% build toolchain also outputs a romhack version of Triforc
 
 **Where can I get a copy of the ROM / all the data injected?**
 
-For legal reasons, we cannot distribute any ROMs, and we also cannot distribute any data files which contain any copyrighted code or assets. All of the tools, code, and assets created by the Triforce% team are released here TODO. Because this release does not include any copyrighted content, it is not possible to reproduce the full Triforce% run from this data. Besides, Triforce% was not created to be a fully playable “game”; if the player were to go outside the plot shown in the live performance, at best they would simply find the vanilla game, and at worst they would encounter crashes and other issues.
+For legal reasons, we cannot distribute any ROMs, and we also cannot distribute any data files which contain any copyrighted code or assets. All of the tools, code, and assets created by the Triforce% team are released [here](https://github.com/triforce-percent/triforce-percent). Because this release does not include any copyrighted content, it is not possible to reproduce the full Triforce% run from this data. Besides, Triforce% was not created to be a fully playable “game”; if the player were to go outside the plot shown in the live performance, at best they would simply find the vanilla game, and at worst they would encounter crashes and other issues.
 
 **Was any of the beta content shown copied from the Gigaleak or the Spaceworld ‘97 overdump?**
 
