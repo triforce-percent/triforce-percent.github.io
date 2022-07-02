@@ -33,8 +33,8 @@ The short answer is, to finally get the Triforce in OoT and make the dreams of m
 **So is the Triforce actually obtainable in Ocarina of Time?**
 
 The answer to this question depends on your philosophy. Some good answers to this question would be:
-“It is now!”
-“If you are a superhuman with 12 arms who can accurately press buttons on four controllers 480 times per second, then yes, you can get the Triforce!”
+- “It is now!”
+- “If you are a superhuman with 12 arms who can accurately press buttons on four controllers 480 times per second, then yes, you can get the Triforce!”
 
 The scene where Link gets the Triforce shown during Triforce% was created by our team and injected into the game via controller input. None of the data comprising this scene (room model, cutscene, music, custom Link animation, etc.) is in the cartridge ROM.
 
