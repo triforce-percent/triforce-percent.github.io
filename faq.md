@@ -103,7 +103,7 @@ However, in Triforce%, the inputs TASBot plays into the game were not created th
 **What is TASBot doing?**
 
 
-TASBot the cute robot is a mascot for a team of people working towards getting TASs to actually run correctly on real consoles through the use of a TAS replay device. You can find this team at https://discord.tas.bot/ 
+TASBot the cute robot is a mascot for a team of people working towards getting TASs to actually run correctly on real consoles through the use of a TAS replay device. You can find this team at [https://discord.tas.bot/](https://discord.tas.bot/)
 
 **What is a TAS replay device then?**
 
@@ -111,7 +111,7 @@ A TAS replay device is basically a controller adapter but better. It takes the T
 
 **Where could I learn to make something like this?**
 
-TAS: https://tasvideos.org
+TAS: [tasvideos.org](https://tasvideos.org)
 
 N64 homebrew: N64brew discord
 
