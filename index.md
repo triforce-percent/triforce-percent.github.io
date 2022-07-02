@@ -37,6 +37,8 @@ TetraBitGaming TODO
 
 [SiIvaGunner wiki page](https://siivagunner.fandom.com/wiki/Triforce%25_SGDQ_Run)
 
+[SiIvaGunner joke explanations](https://gettriforce.link/siiva_jokes)
+
 ## For content creators making videos etc. on Triforce%:
 
 [Clean run video (for taking footage from)](https://www.youtube.com/watch?v=PZNywtNOe9U)
