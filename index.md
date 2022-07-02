@@ -21,7 +21,7 @@ SwankyBox TODO
 
 [Retro Game Mechanics Explained](https://www.youtube.com/watch?v=qBK1sq1BQ2Q)
 
-Hard4Games TODO
+[Hard4Games](https://www.youtube.com/watch?v=f9cCtRYMKm4)
 
 ## Partner Reactors' videos
 
@@ -35,13 +35,13 @@ TetraBitGaming TODO
 
 [SoundCloud](https://soundcloud.com/sauraen/sets/triforce-percent)
 
-## For content creators:
+## For content creators making videos etc. on Triforce%:
 
-Clean run video (for taking footage from) TODO
+[Clean run video (for taking footage from)](https://www.youtube.com/watch?v=PZNywtNOe9U)
 
-HD partial run video (for taking screenshots for branding) TODO
+[HD partial run video (for taking screenshots for branding)](https://www.youtube.com/watch?v=NNRqK1AQ_VY)
 
-HD screenshots folder TODO
+[HD screenshots folder](https://drive.google.com/drive/folders/1uA5L-3pM1gBm_FDIDFX9zB5qrqo1Q1Cv?usp=sharing)
 
 ## Contact
 
