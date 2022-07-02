@@ -1,10 +1,12 @@
-# TODO
+# Triforce% OoT ACE Showcase
 
 ## Main Links
 
-TODO
-TODO
-TODO
+[Live run main video](https://twitch.tv/gamesdonequick/videos)
+
+[Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8)
+
+[Source release](https://github.com/triforce-percent/triforce-percent)
 
 
 ## Project Info
@@ -12,3 +14,50 @@ TODO
 [FAQs](https://gettriforce.link/faq)
 
 [Credits](https://gettriforce.link/credits)
+
+## Partner Creators' videos
+
+SwankyBox TODO
+
+[Retro Game Mechanics Explained](https://www.youtube.com/watch?v=qBK1sq1BQ2Q)
+
+Hard4Games TODO
+
+## Partner Reactors' videos
+
+HMK TODO
+
+TetraBitGaming TODO
+
+## OST Published By SiIvaGunner
+
+[YouTube](https://www.youtube.com/watch?v=E1OYYi2Vzro)
+
+[SoundCloud](https://soundcloud.com/sauraen/sets/triforce-percent)
+
+## For content creators:
+
+Clean run video (for taking footage from) TODO
+
+HD partial run video (for taking screenshots for branding) TODO
+
+HD screenshots folder TODO
+
+## Contact
+
+Media inquiries or TASBot related: dwangoAC ac@acbit.net
+
+Run contents: Sauraen: sauraen at Google’s email service, or Sauraen#0047 on Discord.
+
+## Legal
+
+The Triforce% team is not distributing any ROMs or any code or assets copyrighted by Nintendo. Only content created by the team is being distributed. Triforce% does not include any content from the Gigaleak or the Spaceworld ‘97 overdump.
+
+Triforce% OoT ACE Showcase \
+Assets, Toolchain, and Performance \
+Copyright © 2019-2022 \
+The Triforce% Team
+
+The Legend of ZELDA: Ocarina of Time \
+Copyright © 1998 \
+Nintendo
