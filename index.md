@@ -2,7 +2,7 @@
 
 ## Main Links
 
-[Live run main video](https://www.twitch.tv/videos/1519377241?t=12h55m56s)
+[Live run main video](https://www.youtube.com/watch?v=2x_pqyrf9lA)
 
 [Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8)
 
