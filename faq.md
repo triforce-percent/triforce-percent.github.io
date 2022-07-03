@@ -76,8 +76,8 @@ Here is a complete list of all the debug / beta content left on the cartridge wh
 - Part of text patching system is for the N64DD expansion (URA Zelda)
 - Beta Kokiri head and body
 - Butterfly get item model and entry in one of the item tables
-- Arguable: full Ocarina system
-- Arguable: ability to change between child and adult without pulling the Master Sword
+- Arguable (i.e. hints of it, but not full thing): full Ocarina system
+- Arguable (i.e. hints of it, but not full thing): ability to change between child and adult without pulling the Master Sword
 - Beta Great Fairy
 - Pedestal of the Ocarina
 - Triforce wipe animation before entering Triforce room
