@@ -78,6 +78,7 @@ Here is a complete list of all the debug / beta content left on the cartridge wh
 - Butterfly get item model and entry in one of the item tables
 - Arguable (i.e. hints of it, but not full thing): full Ocarina system
 - Arguable (i.e. hints of it, but not full thing): ability to change between child and adult without pulling the Master Sword
+- Giant magenta rupee (including its behavior of exploding when you touch it)
 - Beta Great Fairy
 - Pedestal of the Ocarina
 - Triforce wipe animation before entering Triforce room
