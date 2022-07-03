@@ -1,6 +1,6 @@
 # Triforce% OoT ACE Showcase
 
-**The specific elements that we called out during the live run are beta content actually left on the cartridge, really are beta content left on the cartridge. Everything else, including the Triforce scene, was created by our team, and injected into the unmodified game live through controller input using Arbitrary Code Execution. For more info see the [FAQ](https://gettriforce.link/faq).**
+**The specific elements that we called out during the live run are beta content actually left on the cartridge, really are beta content left on the cartridge. Everything else, including the Triforce scene, was created by our team, and injected into the unmodified game live through controller input using Arbitrary Code Execution. We did not discover any "new" beta content in the OoT cartridge that was not previously known. For more info see the [FAQ](https://gettriforce.link/faq).**
 
 ## Main Links
 
