@@ -25,9 +25,9 @@
 
 ## Partner Reactors' videos
 
-HMK TODO
+[HMK](https://www.youtube.com/watch?v=mk1WwOu_AQQ)
 
-TetraBitGaming TODO
+[TetraBitGaming](https://www.youtube.com/watch?v=gJ1hSMClhMI)
 
 ## OST Published By SiIvaGunner
 
