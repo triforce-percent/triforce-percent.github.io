@@ -18,7 +18,46 @@ A human speedrunner and a robot sit down in front of a completely unmodified cop
 
 **How does Triforce% relate to OoT Beta Showcase?**
 
-OoT Beta Showcase is the name we were using for Triforce% in order to avoid spoiling that we were going to get the Triforce. They are the same thing.
+OoT Beta Showcase is the name we were using for Triforce% in order to avoid spoiling that we were going to get the Triforce. They are the same project. The idea was to tie some elements of real beta content together with a plot made up by the Triforce% team, and create a plausible "alternate ending" to OoT involving the Triforce, all through ACE and controller input.
+
+**How much/which parts of this were already on the cart?**
+
+Here is a complete list of all the debug / beta content left on the cartridge which we showed off:
+- Inventory editor
+- Arwing
+- Part of text patching system is for the N64DD expansion (URA Zelda)
+- Beta Kokiri head and body
+- Butterfly get item model and entry in one of the item tables
+- Arguable (i.e. hints of it, but not full thing): full Ocarina system
+- Arguable (i.e. hints of it, but not full thing): ability to change between child and adult without pulling the Master Sword
+- Giant magenta rupee (including its behavior of exploding when you touch it)
+- Arguable (i.e. hints of it, but not full thing): melting the ice in Zora's Domain
+- Beta Great Fairy
+- Pedestal of the Ocarina
+- Triforce wipe animation before entering Triforce room
+- Beta Staff Roll cutscene flying through Kokiri Forest
+
+Here is a complete list of all the alpha / beta content which was shown in official prerelease footage / screenshots / etc. So this is real alpha / beta content, but it was recreated by our team, not left on the cartridge.
+- Equipping Medallions to C-buttons
+- Unicorn Fountain scene
+- Beta Great Fairy behavior
+- Triforce room scene
+- Triforce pieces model / behavior
+- Triforce light model
+- Triforce chest model / behavior
+
+Here is a list of the "urban legends" which we brought to life in game. These are concepts which are not actually in OoT in any way, but which were made up by other people over the years.
+- Beating the Running Man in the race
+- Overture of Sages
+
+Everything else we showed was made up by the Triforce% team, including:
+- All the dialogue
+- Lost Woods exit code
+- The concept of the Gerudo having created the Song of Time / Nabooru teaching it to child Link
+- Running Man boss battle
+- Sages' Charm
+- Chamber of Sages sequence
+- All the content after obtaining the Triforce
 
 **Why did the team make Triforce%?**
 
@@ -67,31 +106,6 @@ For legal reasons, we cannot distribute any ROMs, and we also cannot distribute 
 **Was any of the beta content shown copied from the Gigaleak or the Spaceworld ‘97 overdump?**
 
 No. In fact, Triforce% was in progress before the Gigaleak was released and was mostly done before the Spaceworld ‘97 overdump was released. All of the content which was not already in the OoT cartridge was created by the Triforce% team based on the beta trailers and such.
-
-**How much/which parts of this were already on the cart?**
-
-Here is a complete list of all the debug / beta content left on the cartridge which we showed off:
-- Inventory editor
-- Arwing
-- Part of text patching system is for the N64DD expansion (URA Zelda)
-- Beta Kokiri head and body
-- Butterfly get item model and entry in one of the item tables
-- Arguable (i.e. hints of it, but not full thing): full Ocarina system
-- Arguable (i.e. hints of it, but not full thing): ability to change between child and adult without pulling the Master Sword
-- Giant magenta rupee (including its behavior of exploding when you touch it)
-- Beta Great Fairy
-- Pedestal of the Ocarina
-- Triforce wipe animation before entering Triforce room
-- Beta Staff Roll cutscene flying through Kokiri Forest
-
-Here is a complete list of all the alpha / beta content which was shown in official prerelease footage / screenshots / etc. So this is real alpha / beta content, but it was recreated by our team, not left on the cartridge.
-- Equipping Medallions to C-buttons
-- Unicorn Fountain scene
-- Beta Great Fairy behavior
-- Triforce room scene
-- Triforce pieces model / behavior
-- Triforce light model
-- Triforce chest model / behavior
 
 ## TASBot
 
