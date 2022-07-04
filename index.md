@@ -53,6 +53,8 @@
 
 [Forever Classic Games](https://foreverclassicgames.com/news/2022/7/tasbot-summer-games-done-quick-sgdq2022-zelda-link-triforce)
 
+[Zelda Dungeon](https://www.zeldadungeon.net/ocarina-of-time-speedrunners-obtain-the-triforce-in-wild-beta-showcase/)
+
 ## Contact
 
 Media inquiries or TASBot related: dwangoAC ac@acbit.net
