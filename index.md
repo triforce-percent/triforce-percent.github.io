@@ -1,6 +1,6 @@
 # Triforce% OoT ACE Showcase
 
-**The specific elements that we called out during the live run are beta content actually left on the cartridge, really are beta content left on the cartridge. Everything else, including the Triforce scene, was created by our team, and injected into the unmodified game live through controller input using Arbitrary Code Execution. We did not discover any "new" beta content in the OoT cartridge that was not previously known. For more info see the [FAQ](https://gettriforce.link/faq).**
+**The specific elements that we called out during the live run are beta content actually left on the cartridge, really are beta content left on the cartridge. Everything else, including the Triforce scene, was created by our team, and injected into the unmodified game live through controller input using Arbitrary Code Execution. We did not discover any "new" beta content in the OoT cartridge that was not previously known. For the list of which content is which, see the [FAQ](https://gettriforce.link/faq).**
 
 ## Main Links
 
@@ -51,11 +51,15 @@
 
 ## Articles posted about Triforce%
 
+[Ars Technica](https://arstechnica.com/gaming/2022/07/how-zelda-fans-changed-the-ending-to-ocarina-of-time-on-a-vanilla-n64/)
+
 [Forever Classic Games](https://foreverclassicgames.com/news/2022/7/tasbot-summer-games-done-quick-sgdq2022-zelda-link-triforce)
 
 [Zelda Dungeon](https://www.zeldadungeon.net/ocarina-of-time-speedrunners-obtain-the-triforce-in-wild-beta-showcase/)
 
 [Zelda Universe](https://zeldauniverse.net/2022/07/05/games-done-quick-features-astonishing-ocarina-of-time-beta-demonstration/)
+
+[PC Gamer](https://www.pcgamer.com/this-zelda-speedrun-built-on-urban-legends-is-an-all-time-gaming-moment/)
 
 ## Contact
 
