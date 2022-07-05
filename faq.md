@@ -128,7 +128,7 @@ A TAS replay device is basically a controller adapter but better. It takes the T
 
 TAS: [tasvideos.org](https://tasvideos.org)
 
-N64 homebrew: N64brew discord
+N64 homebrew: [N64brew discord](https://discord.gg/WqFgNWf)
 
 OoT romhacking: [The decomp](https://github.com/zeldaret/oot), [Hylian Modding discord](https://discord.gg/nGFZ394)
 
