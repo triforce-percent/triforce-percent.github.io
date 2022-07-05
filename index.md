@@ -55,6 +55,8 @@
 
 [Zelda Dungeon](https://www.zeldadungeon.net/ocarina-of-time-speedrunners-obtain-the-triforce-in-wild-beta-showcase/)
 
+[Zelda Universe](https://zeldauniverse.net/2022/07/05/games-done-quick-features-astonishing-ocarina-of-time-beta-demonstration/)
+
 ## Contact
 
 Media inquiries or TASBot related: dwangoAC ac@acbit.net
