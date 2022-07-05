@@ -159,6 +159,18 @@ We hope to eventually make some sort of video explaining this, but the short ans
 
 Generally, the same way we made all the other custom content. As far as the Running Man boss himself, the original 3D model and skeleton was imported into Blender, IK rigged, and animated by rankaisija. rankaisija also wrote his AI and most of his other code, and Sauraen wrote a few small parts. The Running Man boss is a separate actor from the custom Running Man who meets us at the end of the race in the Lost Woods, which is also separate from the Running Man actors in the vanilla game.
 
+**How did you make the voice acting?**
+
+Again, generally, the same way as we made all the other custom content. Audio is just more data which was injected through controller input. But to spell it out in more detail:
+- Our voice actors recorded the lines in their home studios and sent us the WAV files. (They are not the official voice actors from BotW / Nintendo, but they do both have professional voice acting experience.)
+- We used a tool to encode the audio files into N64 format.
+- The scripts on the computer converted this data to commands to the TAStm32 replay device (the box TASBot was holding) over USB.
+- The TAStm32 converted this into individual controller inputs and sent them to the console.
+- The hyperspeed loader converted the controller inputs back into data and placed it in the Expansion Pak RAM.
+- Patches to the game's OS audio code (which is itself stored in RAM) allowed it to read samples from RAM instead of cartridge ROM.
+- Other patches replaced entries in the game's lists of SFX for Ganon and other boss voice sound effects with pointers to our new SFX.
+- The BotW Link and Zelda actors' custom code triggered playback of the Ganon / boss SFX like any other SFX, which caused the voice lines to be played in game.
+
 **The ROM is, by definition, read-only. So how did you change content within existing parts of OoT which were loaded from the cartridge?**
 
 There are three overall techniques which were used for patching the game.
