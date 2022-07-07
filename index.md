@@ -61,6 +61,10 @@
 
 [PC Gamer](https://www.pcgamer.com/this-zelda-speedrun-built-on-urban-legends-is-an-all-time-gaming-moment/)
 
+[NintendoLife](https://www.nintendolife.com/news/2022/07/watch-this-insane-triforcepercent-speedrun-turns-zelda-ocarina-of-time-into-breath-of-the-wild)
+
+[GoNintendo](https://gonintendo.com/contents/5979-speedrunning-trick-turns-zelda-ocarina-of-time-into-breath-of-the-wild)
+
 ## Contact
 
 Media inquiries or TASBot related: dwangoAC ac@acbit.net
