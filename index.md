@@ -10,7 +10,6 @@
 
 [Source code release](https://github.com/triforce-percent/triforce-percent)
 
-
 ## Project Info
 
 [FAQs](https://gettriforce.link/faq)
@@ -27,7 +26,7 @@
 
 ## Partner Reactors' videos
 
-[HMK](https://www.youtube.com/watch?v=mk1WwOu_AQQ)
+[HMK](https://www.youtube.com/watch?v=mk1WwOu_AQQ) ([Interview](https://www.youtube.com/watch?v=buy6EcI2NKc))
 
 [TetraBitGaming](https://www.youtube.com/watch?v=gJ1hSMClhMI)
 
@@ -65,11 +64,19 @@
 
 [GoNintendo](https://gonintendo.com/contents/5979-speedrunning-trick-turns-zelda-ocarina-of-time-into-breath-of-the-wild)
 
+## Setup info
+
+[Savestate's notes on how to do the setup by hand](https://docs.google.com/document/d/1fglILK3PdZoT1uISGMJKzsm-wZ2tP5652ayjR86QNDU)
+
+[BizHawk savestate of gz macro to do setup](https://drive.google.com/file/d/1tbG5TcfgXAnaxGnA_DubNcAtJR--wCeb/view?usp=sharing)
+
+[BizHawk build needed for compatibility with that savestate](https://drive.google.com/file/d/1K_LOyQX2MRTDOEASBbHPHltTcMB1ZDdm/view?usp=sharing)
+
 ## Contact
 
 Media inquiries or TASBot related: dwangoAC ac@acbit.net
 
-Run contents: Sauraen: sauraen at Google’s email service, or Sauraen#0047 on Discord.
+Run contents: sauraen at Google’s email service, or Sauraen#0047 on Discord.
 
 ## Legal
 
