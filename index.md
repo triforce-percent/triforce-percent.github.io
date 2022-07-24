@@ -1,6 +1,6 @@
 # Triforce% OoT ACE Showcase
 
-Using an Arbitrary Code Execution (ACE) exploit in Ocarina of Time to rewrite the game's plot, get the Triforce, and bring together the community for the future.
+Using an Arbitrary Code Execution (ACE) exploit in Ocarina of Time to rewrite the game's plot, get the Triforce, and bring together the community for the future. ([Main video of performance](https://www.youtube.com/watch?v=2x_pqyrf9lA) / [Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8) / [Source code release](https://github.com/triforce-percent/triforce-percent))
 
 <img alt="Link in the beta Triforce room getting the Triforce with text: &quot;You got the Triforce!!! After 23 years, the dreams of millions of players around the world have finally come true!&quot;" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/gettriforce.png" width="47%" />
 
@@ -11,14 +11,6 @@ The storyline created through ACE ties together beta content from Ocarina of Tim
 <img alt="BotW Zelda and Link look out over the sky, filled with Twitch messages from various users all saying &quot;Here together&quot;, with text: &quot;You asked to see our future?&quot;" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/seeourfuture.png" width="47%" /> <img alt="BotW Link smiling at the camera" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/botwlink_smile.png" width="48%" />
 
 Triforce% was [performed live at Summer Games Done Quick 2022](https://www.youtube.com/watch?v=2x_pqyrf9lA) and by itself raised over $227,000 for Doctors Without Borders. For more information, see the [FAQ](https://gettriforce.link/faq).
-
-## Main Links
-
-[Live run main video](https://www.youtube.com/watch?v=2x_pqyrf9lA)
-
-[Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8)
-
-[Source code release](https://github.com/triforce-percent/triforce-percent)
 
 ## Project Info
 
