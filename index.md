@@ -1,6 +1,12 @@
 # Triforce% OoT ACE Showcase
 
-**The specific elements that we called out during the live run are beta content actually left on the cartridge, really are beta content left on the cartridge. Everything else, including the Triforce scene, was created by our team, and injected into the unmodified game live through controller input using Arbitrary Code Execution. We did not discover any "new" beta content in the OoT cartridge that was not previously known. For the list of which content is which, see the [FAQ](https://gettriforce.link/faq).**
+Using an Arbitrary Code Execution (ACE) exploit in Ocarina of Time to rewrite the game's plot, get the Triforce, and bring together the community for the future.
+
+Triforce% is a unique type of artistic work: a "speedrun" performance of a video game which uses glitches to modify the console's memory on-the-fly to create a new story and a new experience within the game. The game cartridge and ROM are completely unmodified; the changes to the game content are accomplished entirely through glitches and controller input. A robot is used to stream controller inputs extremely quickly into the console, but in principle, a version of this could be accomplished by a perfect human player, just much slower.
+
+The storyline created through ACE ties together beta content from Ocarina of Time--some content actually left in the cartridge, some shown in pre-release screenshots and videos and recreated by the Triforce% team--with urban legends about OoT from the early days of the internet, creating a plot leading to the Triforce. Then, Link uses the power of the Triforce to warp to the future, becoming his Breath of the Wild self and bringing in messages of unity from the live Twitch chat, all in real time on a Nintendo 64 console via controller input.
+
+Triforce% was [performed live at Summer Games Done Quick 2022](https://www.youtube.com/watch?v=2x_pqyrf9lA) and by itself raised over $227,000 for Doctors Without Borders. For more information, see the [FAQ](https://gettriforce.link/faq).
 
 ## Main Links
 
