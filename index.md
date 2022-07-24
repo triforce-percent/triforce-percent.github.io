@@ -2,7 +2,7 @@
 
 Using an Arbitrary Code Execution (ACE) exploit in Ocarina of Time to rewrite the game's plot, get the Triforce, and bring together the community for the future.
 
-![Link in the beta Triforce room getting the Triforce with text: "You got the Triforce!!! After 23 years, the dreams of millions of players around the world have finally come true!"](https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/gettriforce.png)
+<img alt="Link in the beta Triforce room getting the Triforce with text: You got the Triforce!!! After 23 years, the dreams of millions of players around the world have finally come true!" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/gettriforce.png" width="45%" />
 
 Triforce% is a unique type of artistic work: a "speedrun" performance of a video game which uses glitches to modify the console's memory on-the-fly to create a new story and a new experience within the game. The game cartridge and ROM are completely unmodified; the changes to the game content are accomplished entirely through glitches and controller input. A robot is used to stream controller inputs extremely quickly into the console, but in principle, a version of this could be accomplished by a perfect human player, just much slower.
 
