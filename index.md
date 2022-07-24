@@ -2,13 +2,13 @@
 
 Using an Arbitrary Code Execution (ACE) exploit in Ocarina of Time to rewrite the game's plot, get the Triforce, and bring together the community for the future.
 
-<img alt="Link in the beta Triforce room getting the Triforce with text: You got the Triforce!!! After 23 years, the dreams of millions of players around the world have finally come true!" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/gettriforce.png" width="45%" />
+<img alt="Link in the beta Triforce room getting the Triforce with text: &quot;You got the Triforce!!! After 23 years, the dreams of millions of players around the world have finally come true!&quot;" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/gettriforce.png" width="45%" />
 
 Triforce% is a unique type of artistic work: a "speedrun" performance of a video game which uses glitches to modify the console's memory on-the-fly to create a new story and a new experience within the game. The game cartridge and ROM are completely unmodified; the changes to the game content are accomplished entirely through glitches and controller input. A robot is used to stream controller inputs extremely quickly into the console, but in principle, a version of this could be accomplished by a perfect human player, just much slower.
 
 The storyline created through ACE ties together beta content from Ocarina of Time--some content actually left in the cartridge, some shown in pre-release screenshots and videos and recreated by the Triforce% team--with urban legends about OoT from the early days of the internet, creating a plot leading to the Triforce. Then, Link uses the power of the Triforce to warp to the future, becoming his Breath of the Wild self and bringing in messages of unity from the live Twitch chat, all in real time on a Nintendo 64 console via controller input.
 
-![BotW Zelda and Link look out over the sky, filled with Twitch messages from various users all saying "Here together", with text: "You asked to see our future?"](https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/seeourfuture.png) ![BotW Link smiling at the camera](https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/botwlink_smile.png)
+<img alt="BotW Zelda and Link look out over the sky, filled with Twitch messages from various users all saying &quot;Here together&quot;, with text: &quot;You asked to see our future?&quot;" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/seeourfuture.png" width="45%" /> <img alt="BotW Link smiling at the camera" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/botwlink_smile.png" width="45%" />
 
 Triforce% was [performed live at Summer Games Done Quick 2022](https://www.youtube.com/watch?v=2x_pqyrf9lA) and by itself raised over $227,000 for Doctors Without Borders. For more information, see the [FAQ](https://gettriforce.link/faq).
 
