@@ -2,6 +2,14 @@
 
 Using an Arbitrary Code Execution (ACE) exploit in Ocarina of Time to rewrite the game's plot, get the Triforce, and bring together the community for the future. ([Main video of performance](https://www.youtube.com/watch?v=2x_pqyrf9lA) / [Trailer](https://www.youtube.com/watch?v=LL_jOQQTNO8) / [Source code release](https://github.com/triforce-percent/triforce-percent))
 
+*a wild send-up of Ocarina of Time‘s biggest urban legends and a loving celebration of the speedrunning and Zelda communities.... something magical to behold* - [Zelda Dungeon](https://www.zeldadungeon.net/ocarina-of-time-speedrunners-obtain-the-triforce-in-wild-beta-showcase/)
+
+*Another example of the "TASBot" concept transforming games in ways we would never have dreamed of 24 years ago* - [Ars Technica](https://arstechnica.com/gaming/2022/07/how-zelda-fans-changed-the-ending-to-ocarina-of-time-on-a-vanilla-n64/)
+
+*UMMM TRIFORCE% AT SGDQ?? incredible presentation, damn* - [Lena Raine](https://twitter.com/kuraine/status/1543076275073327105)
+
+*I saw people crying in the audience. I was tearing up. It was beautiful, absolutely beautiful.* - [CarlSagan42](https://youtu.be/Cf32Fx41NpA?t=1784)
+
 <img alt="Link in the beta Triforce room getting the Triforce with text: &quot;You got the Triforce!!! After 23 years, the dreams of millions of players around the world have finally come true!&quot;" src="https://github.com/triforce-percent/triforce-percent.github.io/raw/main/docs/assets/images/gettriforce.png" width="47%" />
 
 Triforce% is a unique type of artistic work: a "speedrun" performance of a video game which uses glitches to modify the console's memory on-the-fly to create a new story and a new experience within the game. The game cartridge and ROM are completely unmodified; the changes to the game content are accomplished entirely through glitches and controller input. A robot is used to stream controller inputs extremely quickly into the console, but in principle, a version of this could be accomplished by a perfect human player, just much slower.
