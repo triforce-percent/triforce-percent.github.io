@@ -1,0 +1,1 @@
+This is the source code for the **website** for Triforce%, https://gettriforce.link. If you are looking for the source code for Triforce% itself on N64, go to https://github.com/triforce-percent/triforce-percent.
